@@ -5,9 +5,9 @@ Inspired by an Example for a Web-Dynpro in SAP ABAP.
 
 The App is split in three parts: 
 
-The Database
-The REST-API
-The Frontend
+The Database \
+The REST-API \
+The Frontend \
 
 The Database is made with MariaDB and can be set up with the SQL Script in the folder "examplaDatabase".
 
